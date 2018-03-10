@@ -1,2 +1,2 @@
 # bucketSin
-breve descripccion,  url etc
+breve descripccion,  url etc.
